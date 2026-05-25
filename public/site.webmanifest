@@ -1,0 +1,13 @@
+{
+  "name": "MD. Yusuf Ahmed",
+  "short_name": "Yusuf",
+  "description": "Personal portfolio of MD. Yusuf Ahmed",
+  "icons": [
+    { "src": "/favicon.svg", "type": "image/svg+xml", "sizes": "any" },
+    { "src": "/apple-touch-icon.png", "type": "image/png", "sizes": "180x180" }
+  ],
+  "theme_color": "#0c0c10",
+  "background_color": "#0c0c10",
+  "display": "standalone",
+  "start_url": "/"
+}
